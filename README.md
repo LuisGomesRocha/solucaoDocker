@@ -43,7 +43,7 @@ e
  <p align="justify"> :robot: Vou mapear a porta   :robot: </p>
   
    ```
-  ports:  - "5433:5432"
+  ports:  - "xxxx:5432"
   
    ```
  <p align="justify"> :robot: bem como colocar na rede: :robot: </p>
